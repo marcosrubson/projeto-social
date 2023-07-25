@@ -49,13 +49,16 @@ section#redes-sociais img:hover{
     transition: 0.3s, border 0.5s;
 }
 button{
-    background: #f00;
+    background-color: #800;
     width: 100vw;
     height: 60px;
     color: #fff;
     font-weight: bolder;
     font-size: 1.3em;
     border: 0px;
+}
+button:hover{
+    background-color: #f00;
 }
 img#home{
     display: block;
